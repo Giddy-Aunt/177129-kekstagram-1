@@ -1,7 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Горячева](https://up.htmlacademy.ru/javascript/10/user/177129).
-* Наставник: `Неизвестно`.
 
 ---
 
